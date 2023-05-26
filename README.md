@@ -26,6 +26,13 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
+## SERVER OUTPUT:
+
+<img width="905" alt="calc2" src="https://github.com/Niroshassithanathan/calc/assets/121418437/d26e4509-5d62-4d69-bf41-bb7243bd5f0c">
+
+## CLIENT OUTPUT:
+
+<img width="649" alt="calc" src="https://github.com/Niroshassithanathan/calc/assets/121418437/43a6230b-c12b-4c7e-ac19-827d3ffa46bb">
 
 ## HTML VALIDATOR:
 
